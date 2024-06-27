@@ -6,3 +6,5 @@ Through the use of events and a simple function,
 this program is able to convert between currencies by entering the dollar currency and returning it to you in Egyptian pounds.
 
 NOTE : This program is practice for DOM
+
+Visit Live Demo :  https://letmeproo.github.io/Currency-converter/
